@@ -1,4 +1,4 @@
-<h2>Hello, I'm Berik <b>Alanapapa</b> Bazarov!</h2>
+<h2>Hello, I'm Berik <i>Alanapapa</i> Bazarov!</h2>
 <img align='right' src="dancing-gopher.gif" width="230">
 <p><em>Freelancer and student at <a href="https://alem.school/" target="_blank">Alem Coding School</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
